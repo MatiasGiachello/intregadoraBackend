@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Producto Prueba 2",
+        "description": "Este es un producto prueba",
+        "price": 400,
+        "status": true,
+        "category": "Cinturones",
+        "code": "AAA112",
+        "stock": 25,
+        "id": 2
+    },
+    {
+        "title": "Producto Prueba 3",
+        "description": "Este es un producto prueba",
+        "price": 400,
+        "status": true,
+        "category": "Cinturones",
+        "thumbnail": {},
+        "code": "AAA113",
+        "stock": 25,
+        "id": 3
+    },
+    {
+        "title": "Producto Prueba 4",
+        "description": "Este es un producto prueba",
+        "price": 400,
+        "status": true,
+        "category": "Cinturones",
+        "code": "AAA114",
+        "stock": 25,
+        "id": 4
+    },
+    {
+        "title": "Producto Prueba",
+        "description": "Prueba",
+        "price": "231",
+        "status": true,
+        "category": "Pruea",
+        "thumbnail": "",
+        "code": "123",
+        "stock": "12",
+        "id": 5
+    }
+]
